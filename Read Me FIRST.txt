@@ -3,3 +3,5 @@ As GitHub only allows for 100MB the the required csv file is data.csv which  be 
 https://1drv.ms/u/s!AgRHVeGtsA9XjSc7viQOUBd6gZbT?e=on0yLd
 
 This file and the code in this repository is enough the create the remaining required csv files
+
+Also where you see "job-market(2)_csv.txt" is where you must download the file "job-market(2)_csv" from the link above.
