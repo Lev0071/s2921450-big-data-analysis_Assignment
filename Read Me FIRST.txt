@@ -5,3 +5,8 @@ https://1drv.ms/u/s!AgRHVeGtsA9XjSc7viQOUBd6gZbT?e=on0yLd
 This file and the code in this repository is enough the create the remaining required csv files
 
 Also where you see "job-market(2)_csv.txt" is where you must download the file "job-market(2)_csv" from the link above.
+
+if this link does not work please reach out to me on:
+yasin.c@outlook.com.au, or
+coder0071@outlook.com, or 
+s2921450@griffithuni.edu.au (This email may not work after graduation)
